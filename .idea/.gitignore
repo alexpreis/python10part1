@@ -1,0 +1,9 @@
+# Default ignored files
+/workspace.xml
+Basic.iml
+misc.xml
+modules.xml
+vcs.xml
+/.idea/*.*
+/.idea/dictionatries/*.*
+/.idea/inspectionProfiles/*.*
